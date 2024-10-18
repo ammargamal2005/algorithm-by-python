@@ -1,1 +1,1 @@
-# Logarithms-by-python
+# algorithm-by-python
